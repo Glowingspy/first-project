@@ -1,4 +1,4 @@
-# this asks you baaic questiond and tells you your bmi
+# this asks you basic questions and tells you your bmi
 
 print("Do you want to start calculating your BMI(body mass index)? ")
 print('WRITE "yes" or "no" ')
