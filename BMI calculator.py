@@ -10,7 +10,7 @@ if yes_no == ('no'):
 elif yes_no == 'yes':
     print('What is your weight(in kg)? ')
     weight = float(input())
-    print('what is your height(in cm)?')
+    print('what is your height(in m)?')
     height = float(input())
  
     print('This is your BMI(body mass index)  :  ')
